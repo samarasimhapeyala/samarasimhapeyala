@@ -24,7 +24,9 @@
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/web.svg" alt="web" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
+
 ![Peyala Samarasimha Reddy's Github Stats](https://github-readme-stats.vercel.app/api?username=Samarasimhareddy369&show_icons=true)
+
 - Star ⭐ my repositories if you like
 
 ### 📫 Reach me:
