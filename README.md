@@ -8,7 +8,7 @@
 - 🔭 Mastering Machine Learning by building projects. Working on Deep Learning, Computer Vision
 - 🌱 I’m currently pursuing B.Tech in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
-- 📊 Good at Management, Marketing, Problem Solving, Presentations.
+- 📊 Good at Management, Marketing, Problem Solving, Python, Presentations.
 - 😄 Pronouns: Researcher, Innovative Thinker, Tech Geek, Electrinic Brian
 - See <a href="https://samarasimhareddy369.github.io/">My Portfolio</a>
 ### Tools and Languages:
