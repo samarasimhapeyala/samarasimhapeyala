@@ -1,4 +1,4 @@
-# Hola<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Samar
+# Hola<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">I'm Samar
 
 <!--
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,11 +12,14 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Peyala Samarasimha Reddy's Github Stats](https://github-readme-stats.vercel.app/api?username=Samarasimhareddy369&show_icons=true)
+
 ### Reach me
-<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/linkedin.png" width="30" /></a>
-<a href="https://github.com/ashutosh1919"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/github-logo.png" width="30" /></a>
-<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/facebook.png" width="30" /></a>
-<a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/twitter.png" width="30" /></a>
-<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/instagram.png" width="30" /></a>
-<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/medim.jpeg" width="34" /></a>
+<a href="https://www.linkedin.com/in/samarasimha-reddy-peyala-994071140/"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/linkedin.png" width="30" /></a>
+<a href="https://github.com/Samarasimhareddy369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/github-logo.png" width="30" /></a>
+<a href="https://www.facebook.com/samarasimhareddy369/"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/facebook.png" width="30" /></a>
+<a href="https://twitter.com/samar_reddy_369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/twitter.png" width="30" /></a>
+<a href="https://www.instagram.com/samar_reddy_369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/instagram.png" width="30" /></a>
+<a href="https://medium.com/@samarasimhareddy369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/medim.jpeg" width="34" /></a>
 
