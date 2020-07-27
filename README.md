@@ -14,17 +14,17 @@
 ### Languages and Tools:
 
 <p align="center">
- <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+</p>
+<p align="center">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/web.svg" alt="web" style="vertical-align:top; margin:4px">
-
-
+ <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
-- Star ⭐ my repositories of you like
+- Star ⭐ my repositories if you like
 
 ![Peyala Samarasimha Reddy's Github Stats](https://github-readme-stats.vercel.app/api?username=Samarasimhareddy369&show_icons=true)
 
