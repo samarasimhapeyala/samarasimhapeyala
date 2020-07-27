@@ -1,4 +1,4 @@
-### Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Samar
+# Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">I'm Samar
 
 <!--
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,11 +12,11 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-### Reachout me
+### Reach me
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/linkedin.png" width="30" /></a>
 <a href="https://github.com/ashutosh1919"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/github-logo.png" width="30" /></a>
 <a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/facebook.png" width="30" /></a>
 <a href="https://twitter.com/ashutosh_1919"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/twitter.png" width="30" /></a>
 <a href="https://www.instagram.com/layman_brother"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/instagram.png" width="30" /></a>
-<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/medim.jpeg" width="30" /></a>
+<a href="https://www.instagram.com/layman_brother"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/medim.jpeg" width="34" /></a>
 
