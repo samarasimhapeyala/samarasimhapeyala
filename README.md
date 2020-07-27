@@ -1,21 +1,24 @@
-# Hola<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">I'm Samar
+# Hola<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px">I am Samar
 
 <!--
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
 
-Here are some ideas to get you started: -->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤖 I'm a AI Enthusiast, IoT Explorer
+- 🔭 Mastering Machine Learning by building projects. Working on Deep Learning, Computer Vision
+- 🌱 I’m currently pursuing B.Tech in ECE from IIIT RKValley, RGUKT-Andhra Pradesh, India
+- 📝 I'm a content writer, Passionate learner and a Community Influencer.
+- 📊 Good at Management, Marketing, Problem Solving, Presentations.
+- 😄 Pronouns: Researcher, Innovative Thinker, Tech Geek, Electrinic Brian
+
+### Languages and Tools
+
+
+- Star ⭐ my repositories of you like
 
 ![Peyala Samarasimha Reddy's Github Stats](https://github-readme-stats.vercel.app/api?username=Samarasimhareddy369&show_icons=true)
 
-### Reach me
+### 📫 Reach me:
 <a href="https://www.linkedin.com/in/samarasimha-reddy-peyala-994071140/"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/linkedin.png" width="30" /></a>
 <a href="https://github.com/Samarasimhareddy369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/github-logo.png" width="30" /></a>
 <a href="https://www.facebook.com/samarasimhareddy369/"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/facebook.png" width="30" /></a>
