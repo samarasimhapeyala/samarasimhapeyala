@@ -6,7 +6,7 @@
 ### About Me:
 - 🤖 I'm a AI Enthusiast, IoT Explorer
 - 🔭 Mastering Machine Learning by building projects. Working on Deep Learning, Computer Vision
-- 🌱 I’m currently pursuing B.Tech in ECE from <a href="https://www.legatohealth.com/">IIIT RKValley, RGUKT-Andhra Pradesh, India
+- 🌱 I’m currently pursuing B.Tech in ECE from <a href="https://www.legatohealth.com/">IIIT RKValley</p>, RGUKT-Andhra Pradesh, India
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
 - 📊 Good at Management, Marketing, Problem Solving, Presentations.
 - 😄 Pronouns: Researcher, Innovative Thinker, Tech Geek, Electrinic Brian
