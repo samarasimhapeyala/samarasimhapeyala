@@ -11,7 +11,7 @@
 - 📊 Good at Management, Marketing, Problem Solving, Presentations.
 - 😄 Pronouns: Researcher, Innovative Thinker, Tech Geek, Electrinic Brian
 
-### Languages and Tools:
+### Key Skills:
 
 <p align="center">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
@@ -24,9 +24,8 @@
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/web.svg" alt="web" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
-- Star ⭐ my repositories if you like
-
 ![Peyala Samarasimha Reddy's Github Stats](https://github-readme-stats.vercel.app/api?username=Samarasimhareddy369&show_icons=true)
+- Star ⭐ my repositories if you like
 
 ### 📫 Reach me:
 <a href="https://www.linkedin.com/in/samarasimha-reddy-peyala-994071140/"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/linkedin.png" width="30" /></a>
@@ -36,4 +35,4 @@
 <a href="https://www.instagram.com/samar_reddy_369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/instagram.png" width="30" /></a>
 <a href="https://medium.com/@samarasimhareddy369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/medim.jpeg" width="34" /></a>
 
-## Thank you 🙏🏼
+### Thank you 🙏🏼
