@@ -37,4 +37,4 @@
 <a href="https://www.instagram.com/samar_reddy_369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/instagram.png" width="30" /></a>
 <a href="https://medium.com/@samarasimhareddy369"><img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/medim.jpeg" width="34" /></a>
 
-### Thank you 🙏🏼
+## Thank you
