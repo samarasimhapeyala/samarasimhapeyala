@@ -4,11 +4,11 @@
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 ### About Me:
-- 🤖 I'm a AI Enthusiast, IoT Explorer
+- 🤖 I'm a Machine Learning Engineer, AI Enthusiast
 - 🔭 Mastering Machine Learning by building projects. Working on Deep Learning, Computer Vision
-- 🌱 I’m currently pursuing B.Tech in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
+- 🌱 I’m a B.Tech graduate in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
-- 📊 Good at Management, Marketing, Problem Solving, Python, Presentations.
+- 📊 I'm good at Management, Marketing, Problem Solving, Python, Presentations.
 - 😄 Pronouns: Researcher, Innovative Thinker, Tech Geek, Electronic Brian
 - See <a href="https://samarsreddy.github.io/">My Portfolio</a>
 ### Tools and Languages:
