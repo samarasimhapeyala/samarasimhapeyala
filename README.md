@@ -15,7 +15,7 @@
 
 <p align="center">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
+ <!--<img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">-->
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
 </p>
