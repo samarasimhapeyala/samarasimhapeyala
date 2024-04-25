@@ -6,7 +6,7 @@
 ### About Me:
 - 🤖 I'm a Machine Learning Engineer, AI Enthusiast
 - 🔭 Mastering Machine Learning by building projects. Working on Deep Learning, Computer Vision
-- 🌱 I’m a B.Tech graduate in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
+- 🌱 I’m pursuing M.Tech at BITS Pilani WILP, I'm a B.Tech graduate in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
 - 📊 I'm good at Management, Marketing, Problem Solving, Python, Presentations.
 - 😄 Pronouns: Researcher, Innovative Thinker, Tech Geek, Electronic Brian
