@@ -10,7 +10,7 @@
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
 - 📊 I'm good at Management, Marketing, Problem Solving, Python, Presentations.
 - 😄 Pronouns: Researcher, Innovative Thinker, Tech Geek, Electronic Brian
-- See <a href="https://samarsreddy.github.io/">My Portfolio</a>
+- See <a href="https://samarasimhapeyala.github.io/">My Portfolio</a>
 ### Tools and Languages:
 
 <p align="center">
