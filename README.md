@@ -28,11 +28,11 @@
 - Star ⭐ my repositories if you like
 
 ### 📫 Reach me:
-<a href="https://www.linkedin.com/in/samarsreddy"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/linkedin.png" width="30" /></a>
-<a href="https://github.com/samarsreddy"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/github-logo.png" width="30" /></a>
+<a href="https://www.linkedin.com/in/samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/linkedin.png" width="30" /></a>
+<a href="https://github.com/samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/github-logo.png" width="30" /></a>
 <a href="https://www.facebook.com/samarasimhareddy369/"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/facebook.png" width="30" /></a>
 <a href="https://twitter.com/samarsreddy"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/twitter.png" width="30" /></a>
 <a href="https://www.instagram.com/samarsreddy"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/instagram.png" width="30" /></a>
-<a href="https://medium.com/@samarasimhareddy369"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/medim.jpeg" width="34" /></a>
+<a href="https://medium.com/@samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/medim.jpeg" width="34" /></a>
 
 ## Thank you
