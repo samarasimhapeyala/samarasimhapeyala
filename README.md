@@ -8,9 +8,8 @@
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 ### About Me:
-- 🤖 I'm a Machine Learning Engineer, AI Enthusiast
-- 🔭 Mastering Machine Learning by building projects. Working on Deep Learning, Computer Vision
-- 🌱 I’m pursuing M.Tech in AI-ML (2023-25) at BITS Pilani WILP, I'm a B.Tech graduate in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
+- 🔭 Mastering Artificial Intelligence, more on Deep Learning, Computer Vision, NLP
+- 🌱 I’m pursuing M.Tech in AI-ML (2023-25) at BITS Pilani WILP, I'm a B.Tech graduate in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT, AP, India
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
 - 📊 I'm good at Management, Marketing, Problem Solving, Python, Presentations.
 - 😄 Pronouns: He/Him, Researcher, Innovative:D, Tech Geek, Electronic Brian
@@ -37,11 +36,10 @@
 - Star ⭐ my repositories if you like
 
 ⚙️ GitHub Analytics
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasimhapeyala&layout=compact&theme=radical" alt="samarasimhapeyala" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarasimhapeyala&show_icons=true&theme=radical" alt="samarasimhapeyala" /></p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ### 📫 Reach me:
 <a href="https://www.linkedin.com/in/samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/linkedin.png" width="30" /></a>
 <a href="https://github.com/samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/github-logo.png" width="30" /></a>
