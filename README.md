@@ -46,5 +46,4 @@
 <a href="https://twitter.com/samarsreddy"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/twitter.png" width="30" /></a>
 <a href="https://www.instagram.com/samarsreddy"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/instagram.png" width="30" /></a>
 <a href="https://medium.com/@samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/medim.jpeg" width="34" /></a>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-## Thank you
+### Thank you
