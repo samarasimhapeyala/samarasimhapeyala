@@ -13,7 +13,7 @@
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
 - 📊 I'm good at Management, Marketing, Problem Solving, Python, Presentations.
 - 😄 Pronouns: He/Him, Researcher, Innovative:D, Tech Geek, Electronic Brian
-- See <a href="https://samarasimhapeyala.github.io/">My Portfolio</a>
+- See <a href="https://samarasimhapeyala.github.io/">My Portfolio</a>, Star ⭐ my repositories
 
 ### Tools and Languages:
 
@@ -33,7 +33,6 @@
  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-- Star ⭐ my repositories if you like
 
 ⚙️ GitHub Analytics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasimhapeyala&layout=compact&theme=radical" alt="samarasimhapeyala" /></p>
