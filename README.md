@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=30&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=50&lines=Machine Learning Engineer;Deep into AI" alt="Typing Animation"></div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Awesome+GitHub+Profiles)](https://git.io/typing-svg)
 
 ## Hola<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"> I'm Samar
 <!--
@@ -28,7 +29,7 @@
  <img src="https://github.com/Samarasimhareddy369/Samarasimhareddy369/blob/master/assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
 </p>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+ <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
 </p>
 
 - Star ⭐ my repositories if you like
