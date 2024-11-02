@@ -1,8 +1,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=30&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=50&lines=Machine Learning Engineer;Deep into AI" alt="Typing Animation"></div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=2000&center=true&width=900&lines=Awesome+GitHub+Profiles)](https://git.io/typing-svg)
 ## Hola<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"> I'm Samar
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&center=true&width=900&lines=Awesome+GitHub+Profiles)](https://git.io/typing-svg)
 <!--
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
