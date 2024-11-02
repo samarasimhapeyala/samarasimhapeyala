@@ -8,8 +8,10 @@
 - 🌱 I’m pursuing M.Tech in AI-ML (2023-25) at BITS Pilani WILP, I'm a B.Tech graduate in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
 - 📊 I'm good at Management, Marketing, Problem Solving, Python, Presentations.
-- 😄 Pronouns: Researcher, Innovative Thinker, Tech Geek, Electronic Brian
+- 😄 Pronouns: He/Him, Researcher, Innovative:D, Tech Geek, Electronic Brian
 - See <a href="https://samarasimhapeyala.github.io/">My Portfolio</a>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+
 ### Tools and Languages:
 
 <p align="center">
