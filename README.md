@@ -27,6 +27,10 @@
 
 - Star ⭐ my repositories if you like
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarasimhapeyala&show_icons=true&locale=en&layout=compact" alt="samarasimhapeyala" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarasimhapeyala&show_icons=true&locale=en" alt="samarasimhapeyala" /></p>
+
 ### 📫 Reach me:
 <a href="https://www.linkedin.com/in/samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/linkedin.png" width="30" /></a>
 <a href="https://github.com/samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/github-logo.png" width="30" /></a>
