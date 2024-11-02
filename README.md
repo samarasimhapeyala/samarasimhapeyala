@@ -29,7 +29,7 @@
 
 ⚙️ GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarasimhapeyala&show_icons=true&locale=en&layout=compact" alt="samarasimhapeyala" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasimhapeyala&layout=compact&theme=radical" alt="samarasimhapeyala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarasimhapeyala&show_icons=true&theme=radical" alt="samarasimhapeyala" /></p>
 
