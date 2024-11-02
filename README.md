@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=30&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=50&lines=Machine Learning Engineer;Deep into AI" alt="Typing Animation"></div>
 
-## Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"> I am Samar
+## Hola<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"> I'm Samar
 <!--
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
