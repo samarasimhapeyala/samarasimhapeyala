@@ -2,6 +2,9 @@
 <!--
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
+ <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=35&pause=1000&color=9418F7&center=true&vCenter=true&width=500&height=100&lines=ML Engineer;Deep into AI" alt="Typing Animation">
+</div>
 ### About Me:
 - 🤖 I'm a Machine Learning Engineer, AI Enthusiast
 - 🔭 Mastering Machine Learning by building projects. Working on Deep Learning, Computer Vision
