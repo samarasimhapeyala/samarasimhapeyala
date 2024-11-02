@@ -27,6 +27,8 @@
 
 - Star ⭐ my repositories if you like
 
+⚙️ GitHub Analytics
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarasimhapeyala&show_icons=true&locale=en&layout=compact" alt="samarasimhapeyala" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarasimhapeyala&show_icons=true&locale=en" alt="samarasimhapeyala" /></p>
