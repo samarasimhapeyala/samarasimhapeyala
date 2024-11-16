@@ -37,7 +37,6 @@
 ⚙️ GitHub Analytics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarasimhapeyala&layout=compact&theme=radical" alt="samarasimhapeyala" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarasimhapeyala&show_icons=true&theme=radical" alt="samarasimhapeyala" /></p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 📫 Reach me:
 <a href="https://www.linkedin.com/in/samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/linkedin.png" width="30" /></a>
