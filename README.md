@@ -45,4 +45,4 @@
 <a href="https://twitter.com/samarsreddy"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/twitter.png" width="30" /></a>
 <a href="https://www.instagram.com/samarsreddy"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/instagram.png" width="30" /></a>
 <a href="https://medium.com/@samarasimhapeyala"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/medim.jpeg" width="34" /></a>
-### Thank you
+### Thank you :)
