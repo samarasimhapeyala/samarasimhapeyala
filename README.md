@@ -1,7 +1,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
 <!--<img src="https://readme-typing-svg.demolab.com?font=Calibiri+Code&weight=900&size=25&pause=1000&color=9418F7&center=true&vCenter=true&width=400&height=25&lines=Machine Learning Engineer;Deep into AI" alt="Typing Animation"></div>-->
- <a href="https://samarasimhapeyala.github.io"><img width="80%" alt="Hello" src="./assets/profile.png"/></a>
+<a href="https://samarasimhapeyala.github.io"><img width="80%" alt="Hello" src="./assets/profile.png"/></a></div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px"> I'm Samar-->
