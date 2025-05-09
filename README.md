@@ -9,7 +9,7 @@
 **Samarasimhareddy369/Samarasimhareddy369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 ### About Me:
-- 🔭 Mastering Artificial Intelligence, more on Deep Learning, Computer Vision, NLP
+- 🔭 Mastering Artificial Intelligence, more on Deep Learning, GenAI, NLP
 - 🌱 I’m pursuing M.Tech in AI-ML (2023-25) at BITS Pilani WILP, I'm a B.Tech graduate in ECE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT, AP, India
 - 📝 I'm a content writer, Passionate learner and a Community Influencer.
 - 📊 I'm good at Management, Marketing, Problem Solving, Python, Presentations.
